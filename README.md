@@ -1,2 +1,2 @@
 # SELECTIVE-HARMONIC-ELIMINATION-IN-A-THREE-PHASE-VOLTAGE-CURRENT-SOURCE-INVERTER
-Academic Project(Final Year)
+This was an Academic Project done in the Final Year of my graduate program. Harmonics result in loss and distortion of voltage and by extension, power quality. An appraoch had been taken where software(MATLAB Simulink) is used to obtain the optimal firing angles and trigerring points to eliminate these harmonics. The algorithm has then been put to practical use (Induction Motor) to test the efficacy of our method/approach.  
